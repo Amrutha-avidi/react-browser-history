@@ -1,0 +1,43 @@
+.history-tab {
+  background-color: #3367d6;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+}
+.history-search-con {
+  display: flex;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2850a7;
+}
+.search-icon {
+  border-color: #ececec;
+  border-width: 1px 1px 1px 1px;
+  margin: 1px;
+  width: 30px;
+  text-align: center;
+  background-color: #2850a7;
+}
+.history-search-tab {
+  background-color: #2850a7;
+  border-color: #ececec;
+  border-width: 1px 0px 0px 1px;
+  height: 30px;
+  width: 300px;
+  color: #64748b;
+}
+.search-results {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.error-msg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 25px;
+}

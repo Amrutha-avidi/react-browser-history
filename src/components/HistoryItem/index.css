@@ -1,0 +1,29 @@
+li {
+  list-style: none;
+}
+.history-item-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+.history-item-content {
+  display: flex;
+  flex-direction: row;
+  margin: left;
+}
+p {
+  margin-right: 20px;
+}
+img {
+  margin-right: 20px;
+}
+
+.history-item-button-con {
+  display: flex;
+  margin: right;
+}
+button {
+  background-color: transparent;
+  border-width: 0px;
+}
